@@ -1,0 +1,16 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+header>div{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   background-color: rgb(237, 195, 118);
+   padding: 50px;
+   border-radius: 10px;
+   box-shadow: 2px 2px 10px rgb(136, 136, 136);
+}
